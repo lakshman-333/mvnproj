@@ -8,7 +8,7 @@
     <body>
         <h1>Hello Java EE Continuous Delivery!</h1>
         <h1>Hello New Java EE Continuous Delivery!</h1>
-        <h1>SATHYA TECHNOLOGIES</h1>
+        <h1>THIS IS FRIST MAVEN PROJECT</h1>
         <h1> This is a Node code for Jenkins </h1>
         <h1> Jenkins poll scm </h1>
         GET all the <a href="${pageContext.request.contextPath}/resources/persons"/>persons</a>.
