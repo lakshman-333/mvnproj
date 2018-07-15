@@ -6,6 +6,6 @@
         <title>THIS IS FRIST PROJECT</title>
     </head>
     <body>
-        GET all the <a href="${pageContext.request.contextPath}/resources/persons"/>persons</a>.
+        <title>THIS IS FRIST PROJECT</title>
     </body>
 </html>
